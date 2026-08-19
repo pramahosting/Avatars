@@ -1,0 +1,72 @@
+[
+  {
+    "id": "sample_01_greeting",
+    "label": "Greeting (Male)",
+    "gender": "male",
+    "file": "sample_01_greeting.wav",
+    "url": "/audio_samples/sample_01_greeting.wav"
+  },
+  {
+    "id": "sample_02_morning",
+    "label": "Good Morning (Female)",
+    "gender": "female",
+    "file": "sample_02_morning.wav",
+    "url": "/audio_samples/sample_02_morning.wav"
+  },
+  {
+    "id": "sample_03_pangram",
+    "label": "Pangram (Male)",
+    "gender": "male",
+    "file": "sample_03_pangram.wav",
+    "url": "/audio_samples/sample_03_pangram.wav"
+  },
+  {
+    "id": "sample_04_welcome",
+    "label": "Welcome Message (Female)",
+    "gender": "female",
+    "file": "sample_04_welcome.wav",
+    "url": "/audio_samples/sample_04_welcome.wav"
+  },
+  {
+    "id": "sample_05_technology",
+    "label": "About Technology (Male)",
+    "gender": "male",
+    "file": "sample_05_technology.wav",
+    "url": "/audio_samples/sample_05_technology.wav"
+  },
+  {
+    "id": "sample_06_seashells",
+    "label": "Seashells Tongue-Twister (Female)",
+    "gender": "female",
+    "file": "sample_06_seashells.wav",
+    "url": "/audio_samples/sample_06_seashells.wav"
+  },
+  {
+    "id": "sample_07_instructions",
+    "label": "App Instructions (Male)",
+    "gender": "male",
+    "file": "sample_07_instructions.wav",
+    "url": "/audio_samples/sample_07_instructions.wav"
+  },
+  {
+    "id": "sample_08_ai",
+    "label": "About AI (Female)",
+    "gender": "female",
+    "file": "sample_08_ai.wav",
+    "url": "/audio_samples/sample_08_ai.wav"
+  },
+  {
+    "id": "sample_09_thanks",
+    "label": "Thank You (Male)",
+    "gender": "male",
+    "file": "sample_09_thanks.wav",
+    "url": "/audio_samples/sample_09_thanks.wav"
+  },
+  {
+    "id": "sample_10_weather",
+    "label": "Weather Report (Female)",
+    "gender": "female",
+    "file": "sample_10_weather.wav",
+    "url": "/audio_samples/sample_10_weather.wav"
+  }
+]
