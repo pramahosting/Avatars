@@ -1,0 +1,1892 @@
+[
+  {
+    "id": "AIAN_M_1_Casual",
+    "name": "AIAN M 1 Casual",
+    "gender": "male",
+    "ethnicity": "AIAN",
+    "outfit": "Casual",
+    "model": "/api/lipsync/assets/avatars/AIAN/AIAN_M_1_Casual.glb",
+    "thumbnail": "/api/lipsync/assets/images/AIAN_M_1_Casual.jpg"
+  },
+  {
+    "id": "AIAN_M_1_Busi",
+    "name": "AIAN M 1 Busi",
+    "gender": "male",
+    "ethnicity": "AIAN",
+    "outfit": "Busi",
+    "model": "/api/lipsync/assets/avatars/AIAN/AIAN_M_1_Busi.glb",
+    "thumbnail": "/api/lipsync/assets/images/AIAN_M_1_Busi.jpg"
+  },
+  {
+    "id": "AIAN_M_1_Medi",
+    "name": "AIAN M 1 Medi",
+    "gender": "male",
+    "ethnicity": "AIAN",
+    "outfit": "Medi",
+    "model": "/api/lipsync/assets/avatars/AIAN/AIAN_M_1_Medi.glb",
+    "thumbnail": "/api/lipsync/assets/images/AIAN_M_1_Medi.jpg"
+  },
+  {
+    "id": "AIAN_M_1_Milit",
+    "name": "AIAN M 1 Milit",
+    "gender": "male",
+    "ethnicity": "AIAN",
+    "outfit": "Milit",
+    "model": "/api/lipsync/assets/avatars/AIAN/AIAN_M_1_Milit.glb",
+    "thumbnail": "/api/lipsync/assets/images/AIAN_M_1_Milit.jpg"
+  },
+  {
+    "id": "AIAN_M_1_Util",
+    "name": "AIAN M 1 Util",
+    "gender": "male",
+    "ethnicity": "AIAN",
+    "outfit": "Util",
+    "model": "/api/lipsync/assets/avatars/AIAN/AIAN_M_1_Util.glb",
+    "thumbnail": "/api/lipsync/assets/images/AIAN_M_1_Util.jpg"
+  },
+  {
+    "id": "AIAN_M_2_Casual",
+    "name": "AIAN M 2 Casual",
+    "gender": "male",
+    "ethnicity": "AIAN",
+    "outfit": "Casual",
+    "model": "/api/lipsync/assets/avatars/AIAN/AIAN_M_2_Casual.glb",
+    "thumbnail": "/api/lipsync/assets/images/AIAN_M_2_Casual.jpg"
+  },
+  {
+    "id": "AIAN_M_2_Busi",
+    "name": "AIAN M 2 Busi",
+    "gender": "male",
+    "ethnicity": "AIAN",
+    "outfit": "Busi",
+    "model": "/api/lipsync/assets/avatars/AIAN/AIAN_M_2_Busi.glb",
+    "thumbnail": "/api/lipsync/assets/images/AIAN_M_2_Busi.jpg"
+  },
+  {
+    "id": "AIAN_M_2_Medi",
+    "name": "AIAN M 2 Medi",
+    "gender": "male",
+    "ethnicity": "AIAN",
+    "outfit": "Medi",
+    "model": "/api/lipsync/assets/avatars/AIAN/AIAN_M_2_Medi.glb",
+    "thumbnail": "/api/lipsync/assets/images/AIAN_M_2_Medi.jpg"
+  },
+  {
+    "id": "AIAN_M_2_Milit",
+    "name": "AIAN M 2 Milit",
+    "gender": "male",
+    "ethnicity": "AIAN",
+    "outfit": "Milit",
+    "model": "/api/lipsync/assets/avatars/AIAN/AIAN_M_2_Milit.glb",
+    "thumbnail": "/api/lipsync/assets/images/AIAN_M_2_Milit.jpg"
+  },
+  {
+    "id": "AIAN_M_2_Util",
+    "name": "AIAN M 2 Util",
+    "gender": "male",
+    "ethnicity": "AIAN",
+    "outfit": "Util",
+    "model": "/api/lipsync/assets/avatars/AIAN/AIAN_M_2_Util.glb",
+    "thumbnail": "/api/lipsync/assets/images/AIAN_M_2_Util.jpg"
+  },
+  {
+    "id": "AIAN_F_1_Casual",
+    "name": "AIAN F 1 Casual",
+    "gender": "female",
+    "ethnicity": "AIAN",
+    "outfit": "Casual",
+    "model": "/api/lipsync/assets/avatars/AIAN/AIAN_F_1_Casual.glb",
+    "thumbnail": "/api/lipsync/assets/images/AIAN_F_1_Casual.jpg"
+  },
+  {
+    "id": "AIAN_F_1_Busi",
+    "name": "AIAN F 1 Busi",
+    "gender": "female",
+    "ethnicity": "AIAN",
+    "outfit": "Busi",
+    "model": "/api/lipsync/assets/avatars/AIAN/AIAN_F_1_Busi.glb",
+    "thumbnail": "/api/lipsync/assets/images/AIAN_F_1_Busi.jpg"
+  },
+  {
+    "id": "AIAN_F_1_Medi",
+    "name": "AIAN F 1 Medi",
+    "gender": "female",
+    "ethnicity": "AIAN",
+    "outfit": "Medi",
+    "model": "/api/lipsync/assets/avatars/AIAN/AIAN_F_1_Medi.glb",
+    "thumbnail": "/api/lipsync/assets/images/AIAN_F_1_Medi.jpg"
+  },
+  {
+    "id": "AIAN_F_1_Milit",
+    "name": "AIAN F 1 Milit",
+    "gender": "female",
+    "ethnicity": "AIAN",
+    "outfit": "Milit",
+    "model": "/api/lipsync/assets/avatars/AIAN/AIAN_F_1_Milit.glb",
+    "thumbnail": "/api/lipsync/assets/images/AIAN_F_1_Milit.jpg"
+  },
+  {
+    "id": "AIAN_F_1_Util",
+    "name": "AIAN F 1 Util",
+    "gender": "female",
+    "ethnicity": "AIAN",
+    "outfit": "Util",
+    "model": "/api/lipsync/assets/avatars/AIAN/AIAN_F_1_Util.glb",
+    "thumbnail": "/api/lipsync/assets/images/AIAN_F_1_Util.jpg"
+  },
+  {
+    "id": "AIAN_F_2_Casual",
+    "name": "AIAN F 2 Casual",
+    "gender": "female",
+    "ethnicity": "AIAN",
+    "outfit": "Casual",
+    "model": "/api/lipsync/assets/avatars/AIAN/AIAN_F_2_Casual.glb",
+    "thumbnail": "/api/lipsync/assets/images/AIAN_F_2_Casual.jpg"
+  },
+  {
+    "id": "AIAN_F_2_Busi",
+    "name": "AIAN F 2 Busi",
+    "gender": "female",
+    "ethnicity": "AIAN",
+    "outfit": "Busi",
+    "model": "/api/lipsync/assets/avatars/AIAN/AIAN_F_2_Busi.glb",
+    "thumbnail": "/api/lipsync/assets/images/AIAN_F_2_Busi.jpg"
+  },
+  {
+    "id": "AIAN_F_2_Medi",
+    "name": "AIAN F 2 Medi",
+    "gender": "female",
+    "ethnicity": "AIAN",
+    "outfit": "Medi",
+    "model": "/api/lipsync/assets/avatars/AIAN/AIAN_F_2_Medi.glb",
+    "thumbnail": "/api/lipsync/assets/images/AIAN_F_2_Medi.jpg"
+  },
+  {
+    "id": "AIAN_F_2_Milit",
+    "name": "AIAN F 2 Milit",
+    "gender": "female",
+    "ethnicity": "AIAN",
+    "outfit": "Milit",
+    "model": "/api/lipsync/assets/avatars/AIAN/AIAN_F_2_Milit.glb",
+    "thumbnail": "/api/lipsync/assets/images/AIAN_F_2_Milit.jpg"
+  },
+  {
+    "id": "AIAN_F_2_Util",
+    "name": "AIAN F 2 Util",
+    "gender": "female",
+    "ethnicity": "AIAN",
+    "outfit": "Util",
+    "model": "/api/lipsync/assets/avatars/AIAN/AIAN_F_2_Util.glb",
+    "thumbnail": "/api/lipsync/assets/images/AIAN_F_2_Util.jpg"
+  },
+  {
+    "id": "Asian_M_1_Casual",
+    "name": "Asian M 1 Casual",
+    "gender": "male",
+    "ethnicity": "Asian",
+    "outfit": "Casual",
+    "model": "/api/lipsync/assets/avatars/Asian/Asian_M_1_Casual.glb",
+    "thumbnail": "/api/lipsync/assets/images/Asian_M_1_Casual.jpg"
+  },
+  {
+    "id": "Asian_M_1_Busi",
+    "name": "Asian M 1 Busi",
+    "gender": "male",
+    "ethnicity": "Asian",
+    "outfit": "Busi",
+    "model": "/api/lipsync/assets/avatars/Asian/Asian_M_1_Busi.glb",
+    "thumbnail": "/api/lipsync/assets/images/Asian_M_1_Busi.jpg"
+  },
+  {
+    "id": "Asian_M_1_Medi",
+    "name": "Asian M 1 Medi",
+    "gender": "male",
+    "ethnicity": "Asian",
+    "outfit": "Medi",
+    "model": "/api/lipsync/assets/avatars/Asian/Asian_M_1_Medi.glb",
+    "thumbnail": "/api/lipsync/assets/images/Asian_M_1_Medi.jpg"
+  },
+  {
+    "id": "Asian_M_1_Milit",
+    "name": "Asian M 1 Milit",
+    "gender": "male",
+    "ethnicity": "Asian",
+    "outfit": "Milit",
+    "model": "/api/lipsync/assets/avatars/Asian/Asian_M_1_Milit.glb",
+    "thumbnail": "/api/lipsync/assets/images/Asian_M_1_Milit.jpg"
+  },
+  {
+    "id": "Asian_M_1_Util",
+    "name": "Asian M 1 Util",
+    "gender": "male",
+    "ethnicity": "Asian",
+    "outfit": "Util",
+    "model": "/api/lipsync/assets/avatars/Asian/Asian_M_1_Util.glb",
+    "thumbnail": "/api/lipsync/assets/images/Asian_M_1_Util.jpg"
+  },
+  {
+    "id": "Asian_M_2_Casual",
+    "name": "Asian M 2 Casual",
+    "gender": "male",
+    "ethnicity": "Asian",
+    "outfit": "Casual",
+    "model": "/api/lipsync/assets/avatars/Asian/Asian_M_2_Casual.glb",
+    "thumbnail": "/api/lipsync/assets/images/Asian_M_2_Casual.jpg"
+  },
+  {
+    "id": "Asian_M_2_Busi",
+    "name": "Asian M 2 Busi",
+    "gender": "male",
+    "ethnicity": "Asian",
+    "outfit": "Busi",
+    "model": "/api/lipsync/assets/avatars/Asian/Asian_M_2_Busi.glb",
+    "thumbnail": "/api/lipsync/assets/images/Asian_M_2_Busi.jpg"
+  },
+  {
+    "id": "Asian_M_2_Medi",
+    "name": "Asian M 2 Medi",
+    "gender": "male",
+    "ethnicity": "Asian",
+    "outfit": "Medi",
+    "model": "/api/lipsync/assets/avatars/Asian/Asian_M_2_Medi.glb",
+    "thumbnail": "/api/lipsync/assets/images/Asian_M_2_Medi.jpg"
+  },
+  {
+    "id": "Asian_M_2_Milit",
+    "name": "Asian M 2 Milit",
+    "gender": "male",
+    "ethnicity": "Asian",
+    "outfit": "Milit",
+    "model": "/api/lipsync/assets/avatars/Asian/Asian_M_2_Milit.glb",
+    "thumbnail": "/api/lipsync/assets/images/Asian_M_2_Milit.jpg"
+  },
+  {
+    "id": "Asian_M_2_Util",
+    "name": "Asian M 2 Util",
+    "gender": "male",
+    "ethnicity": "Asian",
+    "outfit": "Util",
+    "model": "/api/lipsync/assets/avatars/Asian/Asian_M_2_Util.glb",
+    "thumbnail": "/api/lipsync/assets/images/Asian_M_2_Util.jpg"
+  },
+  {
+    "id": "Asian_M_3_Casual",
+    "name": "Asian M 3 Casual",
+    "gender": "male",
+    "ethnicity": "Asian",
+    "outfit": "Casual",
+    "model": "/api/lipsync/assets/avatars/Asian/Asian_M_3_Casual.glb",
+    "thumbnail": "/api/lipsync/assets/images/Asian_M_3_Casual.jpg"
+  },
+  {
+    "id": "Asian_M_3_Busi",
+    "name": "Asian M 3 Busi",
+    "gender": "male",
+    "ethnicity": "Asian",
+    "outfit": "Busi",
+    "model": "/api/lipsync/assets/avatars/Asian/Asian_M_3_Busi.glb",
+    "thumbnail": "/api/lipsync/assets/images/Asian_M_3_Busi.jpg"
+  },
+  {
+    "id": "Asian_M_3_Medi",
+    "name": "Asian M 3 Medi",
+    "gender": "male",
+    "ethnicity": "Asian",
+    "outfit": "Medi",
+    "model": "/api/lipsync/assets/avatars/Asian/Asian_M_3_Medi.glb",
+    "thumbnail": "/api/lipsync/assets/images/Asian_M_3_Medi.jpg"
+  },
+  {
+    "id": "Asian_M_3_Milit",
+    "name": "Asian M 3 Milit",
+    "gender": "male",
+    "ethnicity": "Asian",
+    "outfit": "Milit",
+    "model": "/api/lipsync/assets/avatars/Asian/Asian_M_3_Milit.glb",
+    "thumbnail": "/api/lipsync/assets/images/Asian_M_3_Milit.jpg"
+  },
+  {
+    "id": "Asian_M_3_Util",
+    "name": "Asian M 3 Util",
+    "gender": "male",
+    "ethnicity": "Asian",
+    "outfit": "Util",
+    "model": "/api/lipsync/assets/avatars/Asian/Asian_M_3_Util.glb",
+    "thumbnail": "/api/lipsync/assets/images/Asian_M_3_Util.jpg"
+  },
+  {
+    "id": "Asian_F_1_Casual",
+    "name": "Asian F 1 Casual",
+    "gender": "female",
+    "ethnicity": "Asian",
+    "outfit": "Casual",
+    "model": "/api/lipsync/assets/avatars/Asian/Asian_F_1_Casual.glb",
+    "thumbnail": "/api/lipsync/assets/images/Asian_F_1_Casual.jpg"
+  },
+  {
+    "id": "Asian_F_1_Busi",
+    "name": "Asian F 1 Busi",
+    "gender": "female",
+    "ethnicity": "Asian",
+    "outfit": "Busi",
+    "model": "/api/lipsync/assets/avatars/Asian/Asian_F_1_Busi.glb",
+    "thumbnail": "/api/lipsync/assets/images/Asian_F_1_Busi.jpg"
+  },
+  {
+    "id": "Asian_F_1_Medi",
+    "name": "Asian F 1 Medi",
+    "gender": "female",
+    "ethnicity": "Asian",
+    "outfit": "Medi",
+    "model": "/api/lipsync/assets/avatars/Asian/Asian_F_1_Medi.glb",
+    "thumbnail": "/api/lipsync/assets/images/Asian_F_1_Medi.jpg"
+  },
+  {
+    "id": "Asian_F_1_Milit",
+    "name": "Asian F 1 Milit",
+    "gender": "female",
+    "ethnicity": "Asian",
+    "outfit": "Milit",
+    "model": "/api/lipsync/assets/avatars/Asian/Asian_F_1_Milit.glb",
+    "thumbnail": "/api/lipsync/assets/images/Asian_F_1_Milit.jpg"
+  },
+  {
+    "id": "Asian_F_1_Util",
+    "name": "Asian F 1 Util",
+    "gender": "female",
+    "ethnicity": "Asian",
+    "outfit": "Util",
+    "model": "/api/lipsync/assets/avatars/Asian/Asian_F_1_Util.glb",
+    "thumbnail": "/api/lipsync/assets/images/Asian_F_1_Util.jpg"
+  },
+  {
+    "id": "Asian_F_2_Casual",
+    "name": "Asian F 2 Casual",
+    "gender": "female",
+    "ethnicity": "Asian",
+    "outfit": "Casual",
+    "model": "/api/lipsync/assets/avatars/Asian/Asian_F_2_Casual.glb",
+    "thumbnail": "/api/lipsync/assets/images/Asian_F_2_Casual.jpg"
+  },
+  {
+    "id": "Asian_F_2_Busi",
+    "name": "Asian F 2 Busi",
+    "gender": "female",
+    "ethnicity": "Asian",
+    "outfit": "Busi",
+    "model": "/api/lipsync/assets/avatars/Asian/Asian_F_2_Busi.glb",
+    "thumbnail": "/api/lipsync/assets/images/Asian_F_2_Busi.jpg"
+  },
+  {
+    "id": "Asian_F_2_Medi",
+    "name": "Asian F 2 Medi",
+    "gender": "female",
+    "ethnicity": "Asian",
+    "outfit": "Medi",
+    "model": "/api/lipsync/assets/avatars/Asian/Asian_F_2_Medi.glb",
+    "thumbnail": "/api/lipsync/assets/images/Asian_F_2_Medi.jpg"
+  },
+  {
+    "id": "Asian_F_2_Milit",
+    "name": "Asian F 2 Milit",
+    "gender": "female",
+    "ethnicity": "Asian",
+    "outfit": "Milit",
+    "model": "/api/lipsync/assets/avatars/Asian/Asian_F_2_Milit.glb",
+    "thumbnail": "/api/lipsync/assets/images/Asian_F_2_Milit.jpg"
+  },
+  {
+    "id": "Asian_F_2_Util",
+    "name": "Asian F 2 Util",
+    "gender": "female",
+    "ethnicity": "Asian",
+    "outfit": "Util",
+    "model": "/api/lipsync/assets/avatars/Asian/Asian_F_2_Util.glb",
+    "thumbnail": "/api/lipsync/assets/images/Asian_F_2_Util.jpg"
+  },
+  {
+    "id": "Asian_F_3_Casual",
+    "name": "Asian F 3 Casual",
+    "gender": "female",
+    "ethnicity": "Asian",
+    "outfit": "Casual",
+    "model": "/api/lipsync/assets/avatars/Asian/Asian_F_3_Casual.glb",
+    "thumbnail": "/api/lipsync/assets/images/Asian_F_3_Casual.jpg"
+  },
+  {
+    "id": "Asian_F_3_Busi",
+    "name": "Asian F 3 Busi",
+    "gender": "female",
+    "ethnicity": "Asian",
+    "outfit": "Busi",
+    "model": "/api/lipsync/assets/avatars/Asian/Asian_F_3_Busi.glb",
+    "thumbnail": "/api/lipsync/assets/images/Asian_F_3_Busi.jpg"
+  },
+  {
+    "id": "Asian_F_3_Medi",
+    "name": "Asian F 3 Medi",
+    "gender": "female",
+    "ethnicity": "Asian",
+    "outfit": "Medi",
+    "model": "/api/lipsync/assets/avatars/Asian/Asian_F_3_Medi.glb",
+    "thumbnail": "/api/lipsync/assets/images/Asian_F_3_Medi.jpg"
+  },
+  {
+    "id": "Asian_F_3_Milit",
+    "name": "Asian F 3 Milit",
+    "gender": "female",
+    "ethnicity": "Asian",
+    "outfit": "Milit",
+    "model": "/api/lipsync/assets/avatars/Asian/Asian_F_3_Milit.glb",
+    "thumbnail": "/api/lipsync/assets/images/Asian_F_3_Milit.jpg"
+  },
+  {
+    "id": "Asian_F_3_Util",
+    "name": "Asian F 3 Util",
+    "gender": "female",
+    "ethnicity": "Asian",
+    "outfit": "Util",
+    "model": "/api/lipsync/assets/avatars/Asian/Asian_F_3_Util.glb",
+    "thumbnail": "/api/lipsync/assets/images/Asian_F_3_Util.jpg"
+  },
+  {
+    "id": "Black_M_1_Casual",
+    "name": "Black M 1 Casual",
+    "gender": "male",
+    "ethnicity": "Black",
+    "outfit": "Casual",
+    "model": "/api/lipsync/assets/avatars/Black/Black_M_1_Casual.glb",
+    "thumbnail": "/api/lipsync/assets/images/Black_M_1_Casual.jpg"
+  },
+  {
+    "id": "Black_M_1_Busi",
+    "name": "Black M 1 Busi",
+    "gender": "male",
+    "ethnicity": "Black",
+    "outfit": "Busi",
+    "model": "/api/lipsync/assets/avatars/Black/Black_M_1_Busi.glb",
+    "thumbnail": "/api/lipsync/assets/images/Black_M_1_Busi.jpg"
+  },
+  {
+    "id": "Black_M_1_Medi",
+    "name": "Black M 1 Medi",
+    "gender": "male",
+    "ethnicity": "Black",
+    "outfit": "Medi",
+    "model": "/api/lipsync/assets/avatars/Black/Black_M_1_Medi.glb",
+    "thumbnail": "/api/lipsync/assets/images/Black_M_1_Medi.jpg"
+  },
+  {
+    "id": "Black_M_1_Milit",
+    "name": "Black M 1 Milit",
+    "gender": "male",
+    "ethnicity": "Black",
+    "outfit": "Milit",
+    "model": "/api/lipsync/assets/avatars/Black/Black_M_1_Milit.glb",
+    "thumbnail": "/api/lipsync/assets/images/Black_M_1_Milit.jpg"
+  },
+  {
+    "id": "Black_M_1_Util",
+    "name": "Black M 1 Util",
+    "gender": "male",
+    "ethnicity": "Black",
+    "outfit": "Util",
+    "model": "/api/lipsync/assets/avatars/Black/Black_M_1_Util.glb",
+    "thumbnail": "/api/lipsync/assets/images/Black_M_1_Util.jpg"
+  },
+  {
+    "id": "Black_M_2_Casual",
+    "name": "Black M 2 Casual",
+    "gender": "male",
+    "ethnicity": "Black",
+    "outfit": "Casual",
+    "model": "/api/lipsync/assets/avatars/Black/Black_M_2_Casual.glb",
+    "thumbnail": "/api/lipsync/assets/images/Black_M_2_Casual.jpg"
+  },
+  {
+    "id": "Black_M_2_Busi",
+    "name": "Black M 2 Busi",
+    "gender": "male",
+    "ethnicity": "Black",
+    "outfit": "Busi",
+    "model": "/api/lipsync/assets/avatars/Black/Black_M_2_Busi.glb",
+    "thumbnail": "/api/lipsync/assets/images/Black_M_2_Busi.jpg"
+  },
+  {
+    "id": "Black_M_2_Medi",
+    "name": "Black M 2 Medi",
+    "gender": "male",
+    "ethnicity": "Black",
+    "outfit": "Medi",
+    "model": "/api/lipsync/assets/avatars/Black/Black_M_2_Medi.glb",
+    "thumbnail": "/api/lipsync/assets/images/Black_M_2_Medi.jpg"
+  },
+  {
+    "id": "Black_M_2_Milit",
+    "name": "Black M 2 Milit",
+    "gender": "male",
+    "ethnicity": "Black",
+    "outfit": "Milit",
+    "model": "/api/lipsync/assets/avatars/Black/Black_M_2_Milit.glb",
+    "thumbnail": "/api/lipsync/assets/images/Black_M_2_Milit.jpg"
+  },
+  {
+    "id": "Black_M_2_Util",
+    "name": "Black M 2 Util",
+    "gender": "male",
+    "ethnicity": "Black",
+    "outfit": "Util",
+    "model": "/api/lipsync/assets/avatars/Black/Black_M_2_Util.glb",
+    "thumbnail": "/api/lipsync/assets/images/Black_M_2_Util.jpg"
+  },
+  {
+    "id": "Black_M_3_Casual",
+    "name": "Black M 3 Casual",
+    "gender": "male",
+    "ethnicity": "Black",
+    "outfit": "Casual",
+    "model": "/api/lipsync/assets/avatars/Black/Black_M_3_Casual.glb",
+    "thumbnail": "/api/lipsync/assets/images/Black_M_3_Casual.jpg"
+  },
+  {
+    "id": "Black_M_3_Busi",
+    "name": "Black M 3 Busi",
+    "gender": "male",
+    "ethnicity": "Black",
+    "outfit": "Busi",
+    "model": "/api/lipsync/assets/avatars/Black/Black_M_3_Busi.glb",
+    "thumbnail": "/api/lipsync/assets/images/Black_M_3_Busi.jpg"
+  },
+  {
+    "id": "Black_M_3_Medi",
+    "name": "Black M 3 Medi",
+    "gender": "male",
+    "ethnicity": "Black",
+    "outfit": "Medi",
+    "model": "/api/lipsync/assets/avatars/Black/Black_M_3_Medi.glb",
+    "thumbnail": "/api/lipsync/assets/images/Black_M_3_Medi.jpg"
+  },
+  {
+    "id": "Black_M_3_Milit",
+    "name": "Black M 3 Milit",
+    "gender": "male",
+    "ethnicity": "Black",
+    "outfit": "Milit",
+    "model": "/api/lipsync/assets/avatars/Black/Black_M_3_Milit.glb",
+    "thumbnail": "/api/lipsync/assets/images/Black_M_3_Milit.jpg"
+  },
+  {
+    "id": "Black_M_3_Util",
+    "name": "Black M 3 Util",
+    "gender": "male",
+    "ethnicity": "Black",
+    "outfit": "Util",
+    "model": "/api/lipsync/assets/avatars/Black/Black_M_3_Util.glb",
+    "thumbnail": "/api/lipsync/assets/images/Black_M_3_Util.jpg"
+  },
+  {
+    "id": "Black_F_1_Casual",
+    "name": "Black F 1 Casual",
+    "gender": "female",
+    "ethnicity": "Black",
+    "outfit": "Casual",
+    "model": "/api/lipsync/assets/avatars/Black/Black_F_1_Casual.glb",
+    "thumbnail": "/api/lipsync/assets/images/Black_F_1_Casual.jpg"
+  },
+  {
+    "id": "Black_F_1_Busi",
+    "name": "Black F 1 Busi",
+    "gender": "female",
+    "ethnicity": "Black",
+    "outfit": "Busi",
+    "model": "/api/lipsync/assets/avatars/Black/Black_F_1_Busi.glb",
+    "thumbnail": "/api/lipsync/assets/images/Black_F_1_Busi.jpg"
+  },
+  {
+    "id": "Black_F_1_Medi",
+    "name": "Black F 1 Medi",
+    "gender": "female",
+    "ethnicity": "Black",
+    "outfit": "Medi",
+    "model": "/api/lipsync/assets/avatars/Black/Black_F_1_Medi.glb",
+    "thumbnail": "/api/lipsync/assets/images/Black_F_1_Medi.jpg"
+  },
+  {
+    "id": "Black_F_1_Milit",
+    "name": "Black F 1 Milit",
+    "gender": "female",
+    "ethnicity": "Black",
+    "outfit": "Milit",
+    "model": "/api/lipsync/assets/avatars/Black/Black_F_1_Milit.glb",
+    "thumbnail": "/api/lipsync/assets/images/Black_F_1_Milit.jpg"
+  },
+  {
+    "id": "Black_F_1_Util",
+    "name": "Black F 1 Util",
+    "gender": "female",
+    "ethnicity": "Black",
+    "outfit": "Util",
+    "model": "/api/lipsync/assets/avatars/Black/Black_F_1_Util.glb",
+    "thumbnail": "/api/lipsync/assets/images/Black_F_1_Util.jpg"
+  },
+  {
+    "id": "Black_F_2_Casual",
+    "name": "Black F 2 Casual",
+    "gender": "female",
+    "ethnicity": "Black",
+    "outfit": "Casual",
+    "model": "/api/lipsync/assets/avatars/Black/Black_F_2_Casual.glb",
+    "thumbnail": "/api/lipsync/assets/images/Black_F_2_Casual.jpg"
+  },
+  {
+    "id": "Black_F_2_Busi",
+    "name": "Black F 2 Busi",
+    "gender": "female",
+    "ethnicity": "Black",
+    "outfit": "Busi",
+    "model": "/api/lipsync/assets/avatars/Black/Black_F_2_Busi.glb",
+    "thumbnail": "/api/lipsync/assets/images/Black_F_2_Busi.jpg"
+  },
+  {
+    "id": "Black_F_2_Medi",
+    "name": "Black F 2 Medi",
+    "gender": "female",
+    "ethnicity": "Black",
+    "outfit": "Medi",
+    "model": "/api/lipsync/assets/avatars/Black/Black_F_2_Medi.glb",
+    "thumbnail": "/api/lipsync/assets/images/Black_F_2_Medi.jpg"
+  },
+  {
+    "id": "Black_F_2_Milit",
+    "name": "Black F 2 Milit",
+    "gender": "female",
+    "ethnicity": "Black",
+    "outfit": "Milit",
+    "model": "/api/lipsync/assets/avatars/Black/Black_F_2_Milit.glb",
+    "thumbnail": "/api/lipsync/assets/images/Black_F_2_Milit.jpg"
+  },
+  {
+    "id": "Black_F_2_Util",
+    "name": "Black F 2 Util",
+    "gender": "female",
+    "ethnicity": "Black",
+    "outfit": "Util",
+    "model": "/api/lipsync/assets/avatars/Black/Black_F_2_Util.glb",
+    "thumbnail": "/api/lipsync/assets/images/Black_F_2_Util.jpg"
+  },
+  {
+    "id": "Black_F_3_Casual",
+    "name": "Black F 3 Casual",
+    "gender": "female",
+    "ethnicity": "Black",
+    "outfit": "Casual",
+    "model": "/api/lipsync/assets/avatars/Black/Black_F_3_Casual.glb",
+    "thumbnail": "/api/lipsync/assets/images/Black_F_3_Casual.jpg"
+  },
+  {
+    "id": "Black_F_3_Busi",
+    "name": "Black F 3 Busi",
+    "gender": "female",
+    "ethnicity": "Black",
+    "outfit": "Busi",
+    "model": "/api/lipsync/assets/avatars/Black/Black_F_3_Busi.glb",
+    "thumbnail": "/api/lipsync/assets/images/Black_F_3_Busi.jpg"
+  },
+  {
+    "id": "Black_F_3_Medi",
+    "name": "Black F 3 Medi",
+    "gender": "female",
+    "ethnicity": "Black",
+    "outfit": "Medi",
+    "model": "/api/lipsync/assets/avatars/Black/Black_F_3_Medi.glb",
+    "thumbnail": "/api/lipsync/assets/images/Black_F_3_Medi.jpg"
+  },
+  {
+    "id": "Black_F_3_Milit",
+    "name": "Black F 3 Milit",
+    "gender": "female",
+    "ethnicity": "Black",
+    "outfit": "Milit",
+    "model": "/api/lipsync/assets/avatars/Black/Black_F_3_Milit.glb",
+    "thumbnail": "/api/lipsync/assets/images/Black_F_3_Milit.jpg"
+  },
+  {
+    "id": "Black_F_3_Util",
+    "name": "Black F 3 Util",
+    "gender": "female",
+    "ethnicity": "Black",
+    "outfit": "Util",
+    "model": "/api/lipsync/assets/avatars/Black/Black_F_3_Util.glb",
+    "thumbnail": "/api/lipsync/assets/images/Black_F_3_Util.jpg"
+  },
+  {
+    "id": "Hispanic_M_1_Casual",
+    "name": "Hispanic M 1 Casual",
+    "gender": "male",
+    "ethnicity": "Hispanic",
+    "outfit": "Casual",
+    "model": "/api/lipsync/assets/avatars/Hispanic/Hispanic_M_1_Casual.glb",
+    "thumbnail": "/api/lipsync/assets/images/Hispanic_M_1_Casual.jpg"
+  },
+  {
+    "id": "Hispanic_M_1_Busi",
+    "name": "Hispanic M 1 Busi",
+    "gender": "male",
+    "ethnicity": "Hispanic",
+    "outfit": "Busi",
+    "model": "/api/lipsync/assets/avatars/Hispanic/Hispanic_M_1_Busi.glb",
+    "thumbnail": "/api/lipsync/assets/images/Hispanic_M_1_Busi.jpg"
+  },
+  {
+    "id": "Hispanic_M_1_Medi",
+    "name": "Hispanic M 1 Medi",
+    "gender": "male",
+    "ethnicity": "Hispanic",
+    "outfit": "Medi",
+    "model": "/api/lipsync/assets/avatars/Hispanic/Hispanic_M_1_Medi.glb",
+    "thumbnail": "/api/lipsync/assets/images/Hispanic_M_1_Medi.jpg"
+  },
+  {
+    "id": "Hispanic_M_1_Milit",
+    "name": "Hispanic M 1 Milit",
+    "gender": "male",
+    "ethnicity": "Hispanic",
+    "outfit": "Milit",
+    "model": "/api/lipsync/assets/avatars/Hispanic/Hispanic_M_1_Milit.glb",
+    "thumbnail": "/api/lipsync/assets/images/Hispanic_M_1_Milit.jpg"
+  },
+  {
+    "id": "Hispanic_M_1_Util",
+    "name": "Hispanic M 1 Util",
+    "gender": "male",
+    "ethnicity": "Hispanic",
+    "outfit": "Util",
+    "model": "/api/lipsync/assets/avatars/Hispanic/Hispanic_M_1_Util.glb",
+    "thumbnail": "/api/lipsync/assets/images/Hispanic_M_1_Util.jpg"
+  },
+  {
+    "id": "Hispanic_M_2_Casual",
+    "name": "Hispanic M 2 Casual",
+    "gender": "male",
+    "ethnicity": "Hispanic",
+    "outfit": "Casual",
+    "model": "/api/lipsync/assets/avatars/Hispanic/Hispanic_M_2_Casual.glb",
+    "thumbnail": "/api/lipsync/assets/images/Hispanic_M_2_Casual.jpg"
+  },
+  {
+    "id": "Hispanic_M_2_Busi",
+    "name": "Hispanic M 2 Busi",
+    "gender": "male",
+    "ethnicity": "Hispanic",
+    "outfit": "Busi",
+    "model": "/api/lipsync/assets/avatars/Hispanic/Hispanic_M_2_Busi.glb",
+    "thumbnail": "/api/lipsync/assets/images/Hispanic_M_2_Busi.jpg"
+  },
+  {
+    "id": "Hispanic_M_2_Medi",
+    "name": "Hispanic M 2 Medi",
+    "gender": "male",
+    "ethnicity": "Hispanic",
+    "outfit": "Medi",
+    "model": "/api/lipsync/assets/avatars/Hispanic/Hispanic_M_2_Medi.glb",
+    "thumbnail": "/api/lipsync/assets/images/Hispanic_M_2_Medi.jpg"
+  },
+  {
+    "id": "Hispanic_M_2_Milit",
+    "name": "Hispanic M 2 Milit",
+    "gender": "male",
+    "ethnicity": "Hispanic",
+    "outfit": "Milit",
+    "model": "/api/lipsync/assets/avatars/Hispanic/Hispanic_M_2_Milit.glb",
+    "thumbnail": "/api/lipsync/assets/images/Hispanic_M_2_Milit.jpg"
+  },
+  {
+    "id": "Hispanic_M_2_Util",
+    "name": "Hispanic M 2 Util",
+    "gender": "male",
+    "ethnicity": "Hispanic",
+    "outfit": "Util",
+    "model": "/api/lipsync/assets/avatars/Hispanic/Hispanic_M_2_Util.glb",
+    "thumbnail": "/api/lipsync/assets/images/Hispanic_M_2_Util.jpg"
+  },
+  {
+    "id": "Hispanic_M_3_Casual",
+    "name": "Hispanic M 3 Casual",
+    "gender": "male",
+    "ethnicity": "Hispanic",
+    "outfit": "Casual",
+    "model": "/api/lipsync/assets/avatars/Hispanic/Hispanic_M_3_Casual.glb",
+    "thumbnail": "/api/lipsync/assets/images/Hispanic_M_3_Casual.jpg"
+  },
+  {
+    "id": "Hispanic_M_3_Busi",
+    "name": "Hispanic M 3 Busi",
+    "gender": "male",
+    "ethnicity": "Hispanic",
+    "outfit": "Busi",
+    "model": "/api/lipsync/assets/avatars/Hispanic/Hispanic_M_3_Busi.glb",
+    "thumbnail": "/api/lipsync/assets/images/Hispanic_M_3_Busi.jpg"
+  },
+  {
+    "id": "Hispanic_M_3_Medi",
+    "name": "Hispanic M 3 Medi",
+    "gender": "male",
+    "ethnicity": "Hispanic",
+    "outfit": "Medi",
+    "model": "/api/lipsync/assets/avatars/Hispanic/Hispanic_M_3_Medi.glb",
+    "thumbnail": "/api/lipsync/assets/images/Hispanic_M_3_Medi.jpg"
+  },
+  {
+    "id": "Hispanic_M_3_Milit",
+    "name": "Hispanic M 3 Milit",
+    "gender": "male",
+    "ethnicity": "Hispanic",
+    "outfit": "Milit",
+    "model": "/api/lipsync/assets/avatars/Hispanic/Hispanic_M_3_Milit.glb",
+    "thumbnail": "/api/lipsync/assets/images/Hispanic_M_3_Milit.jpg"
+  },
+  {
+    "id": "Hispanic_M_3_Util",
+    "name": "Hispanic M 3 Util",
+    "gender": "male",
+    "ethnicity": "Hispanic",
+    "outfit": "Util",
+    "model": "/api/lipsync/assets/avatars/Hispanic/Hispanic_M_3_Util.glb",
+    "thumbnail": "/api/lipsync/assets/images/Hispanic_M_3_Util.jpg"
+  },
+  {
+    "id": "Hispanic_F_1_Casual",
+    "name": "Hispanic F 1 Casual",
+    "gender": "female",
+    "ethnicity": "Hispanic",
+    "outfit": "Casual",
+    "model": "/api/lipsync/assets/avatars/Hispanic/Hispanic_F_1_Casual.glb",
+    "thumbnail": "/api/lipsync/assets/images/Hispanic_F_1_Casual.jpg"
+  },
+  {
+    "id": "Hispanic_F_1_Busi",
+    "name": "Hispanic F 1 Busi",
+    "gender": "female",
+    "ethnicity": "Hispanic",
+    "outfit": "Busi",
+    "model": "/api/lipsync/assets/avatars/Hispanic/Hispanic_F_1_Busi.glb",
+    "thumbnail": "/api/lipsync/assets/images/Hispanic_F_1_Busi.jpg"
+  },
+  {
+    "id": "Hispanic_F_1_Medi",
+    "name": "Hispanic F 1 Medi",
+    "gender": "female",
+    "ethnicity": "Hispanic",
+    "outfit": "Medi",
+    "model": "/api/lipsync/assets/avatars/Hispanic/Hispanic_F_1_Medi.glb",
+    "thumbnail": "/api/lipsync/assets/images/Hispanic_F_1_Medi.jpg"
+  },
+  {
+    "id": "Hispanic_F_1_Milit",
+    "name": "Hispanic F 1 Milit",
+    "gender": "female",
+    "ethnicity": "Hispanic",
+    "outfit": "Milit",
+    "model": "/api/lipsync/assets/avatars/Hispanic/Hispanic_F_1_Milit.glb",
+    "thumbnail": "/api/lipsync/assets/images/Hispanic_F_1_Milit.jpg"
+  },
+  {
+    "id": "Hispanic_F_1_Util",
+    "name": "Hispanic F 1 Util",
+    "gender": "female",
+    "ethnicity": "Hispanic",
+    "outfit": "Util",
+    "model": "/api/lipsync/assets/avatars/Hispanic/Hispanic_F_1_Util.glb",
+    "thumbnail": "/api/lipsync/assets/images/Hispanic_F_1_Util.jpg"
+  },
+  {
+    "id": "Hispanic_F_2_Casual",
+    "name": "Hispanic F 2 Casual",
+    "gender": "female",
+    "ethnicity": "Hispanic",
+    "outfit": "Casual",
+    "model": "/api/lipsync/assets/avatars/Hispanic/Hispanic_F_2_Casual.glb",
+    "thumbnail": "/api/lipsync/assets/images/Hispanic_F_2_Casual.jpg"
+  },
+  {
+    "id": "Hispanic_F_2_Busi",
+    "name": "Hispanic F 2 Busi",
+    "gender": "female",
+    "ethnicity": "Hispanic",
+    "outfit": "Busi",
+    "model": "/api/lipsync/assets/avatars/Hispanic/Hispanic_F_2_Busi.glb",
+    "thumbnail": "/api/lipsync/assets/images/Hispanic_F_2_Busi.jpg"
+  },
+  {
+    "id": "Hispanic_F_2_Medi",
+    "name": "Hispanic F 2 Medi",
+    "gender": "female",
+    "ethnicity": "Hispanic",
+    "outfit": "Medi",
+    "model": "/api/lipsync/assets/avatars/Hispanic/Hispanic_F_2_Medi.glb",
+    "thumbnail": "/api/lipsync/assets/images/Hispanic_F_2_Medi.jpg"
+  },
+  {
+    "id": "Hispanic_F_2_Milit",
+    "name": "Hispanic F 2 Milit",
+    "gender": "female",
+    "ethnicity": "Hispanic",
+    "outfit": "Milit",
+    "model": "/api/lipsync/assets/avatars/Hispanic/Hispanic_F_2_Milit.glb",
+    "thumbnail": "/api/lipsync/assets/images/Hispanic_F_2_Milit.jpg"
+  },
+  {
+    "id": "Hispanic_F_2_Util",
+    "name": "Hispanic F 2 Util",
+    "gender": "female",
+    "ethnicity": "Hispanic",
+    "outfit": "Util",
+    "model": "/api/lipsync/assets/avatars/Hispanic/Hispanic_F_2_Util.glb",
+    "thumbnail": "/api/lipsync/assets/images/Hispanic_F_2_Util.jpg"
+  },
+  {
+    "id": "Hispanic_F_3_Casual",
+    "name": "Hispanic F 3 Casual",
+    "gender": "female",
+    "ethnicity": "Hispanic",
+    "outfit": "Casual",
+    "model": "/api/lipsync/assets/avatars/Hispanic/Hispanic_F_3_Casual.glb",
+    "thumbnail": "/api/lipsync/assets/images/Hispanic_F_3_Casual.jpg"
+  },
+  {
+    "id": "Hispanic_F_3_Busi",
+    "name": "Hispanic F 3 Busi",
+    "gender": "female",
+    "ethnicity": "Hispanic",
+    "outfit": "Busi",
+    "model": "/api/lipsync/assets/avatars/Hispanic/Hispanic_F_3_Busi.glb",
+    "thumbnail": "/api/lipsync/assets/images/Hispanic_F_3_Busi.jpg"
+  },
+  {
+    "id": "Hispanic_F_3_Medi",
+    "name": "Hispanic F 3 Medi",
+    "gender": "female",
+    "ethnicity": "Hispanic",
+    "outfit": "Medi",
+    "model": "/api/lipsync/assets/avatars/Hispanic/Hispanic_F_3_Medi.glb",
+    "thumbnail": "/api/lipsync/assets/images/Hispanic_F_3_Medi.jpg"
+  },
+  {
+    "id": "Hispanic_F_3_Milit",
+    "name": "Hispanic F 3 Milit",
+    "gender": "female",
+    "ethnicity": "Hispanic",
+    "outfit": "Milit",
+    "model": "/api/lipsync/assets/avatars/Hispanic/Hispanic_F_3_Milit.glb",
+    "thumbnail": "/api/lipsync/assets/images/Hispanic_F_3_Milit.jpg"
+  },
+  {
+    "id": "Hispanic_F_3_Util",
+    "name": "Hispanic F 3 Util",
+    "gender": "female",
+    "ethnicity": "Hispanic",
+    "outfit": "Util",
+    "model": "/api/lipsync/assets/avatars/Hispanic/Hispanic_F_3_Util.glb",
+    "thumbnail": "/api/lipsync/assets/images/Hispanic_F_3_Util.jpg"
+  },
+  {
+    "id": "MENA_M_1_Casual",
+    "name": "MENA M 1 Casual",
+    "gender": "male",
+    "ethnicity": "MENA",
+    "outfit": "Casual",
+    "model": "/api/lipsync/assets/avatars/MENA/MENA_M_1_Casual.glb",
+    "thumbnail": "/api/lipsync/assets/images/MENA_M_1_Casual.jpg"
+  },
+  {
+    "id": "MENA_M_1_Busi",
+    "name": "MENA M 1 Busi",
+    "gender": "male",
+    "ethnicity": "MENA",
+    "outfit": "Busi",
+    "model": "/api/lipsync/assets/avatars/MENA/MENA_M_1_Busi.glb",
+    "thumbnail": "/api/lipsync/assets/images/MENA_M_1_Busi.jpg"
+  },
+  {
+    "id": "MENA_M_1_Medi",
+    "name": "MENA M 1 Medi",
+    "gender": "male",
+    "ethnicity": "MENA",
+    "outfit": "Medi",
+    "model": "/api/lipsync/assets/avatars/MENA/MENA_M_1_Medi.glb",
+    "thumbnail": "/api/lipsync/assets/images/MENA_M_1_Medi.jpg"
+  },
+  {
+    "id": "MENA_M_1_Milit",
+    "name": "MENA M 1 Milit",
+    "gender": "male",
+    "ethnicity": "MENA",
+    "outfit": "Milit",
+    "model": "/api/lipsync/assets/avatars/MENA/MENA_M_1_Milit.glb",
+    "thumbnail": "/api/lipsync/assets/images/MENA_M_1_Milit.jpg"
+  },
+  {
+    "id": "MENA_M_1_Util",
+    "name": "MENA M 1 Util",
+    "gender": "male",
+    "ethnicity": "MENA",
+    "outfit": "Util",
+    "model": "/api/lipsync/assets/avatars/MENA/MENA_M_1_Util.glb",
+    "thumbnail": "/api/lipsync/assets/images/MENA_M_1_Util.jpg"
+  },
+  {
+    "id": "MENA_M_2_Casual",
+    "name": "MENA M 2 Casual",
+    "gender": "male",
+    "ethnicity": "MENA",
+    "outfit": "Casual",
+    "model": "/api/lipsync/assets/avatars/MENA/MENA_M_2_Casual.glb",
+    "thumbnail": "/api/lipsync/assets/images/MENA_M_2_Casual.jpg"
+  },
+  {
+    "id": "MENA_M_2_Busi",
+    "name": "MENA M 2 Busi",
+    "gender": "male",
+    "ethnicity": "MENA",
+    "outfit": "Busi",
+    "model": "/api/lipsync/assets/avatars/MENA/MENA_M_2_Busi.glb",
+    "thumbnail": "/api/lipsync/assets/images/MENA_M_2_Busi.jpg"
+  },
+  {
+    "id": "MENA_M_2_Medi",
+    "name": "MENA M 2 Medi",
+    "gender": "male",
+    "ethnicity": "MENA",
+    "outfit": "Medi",
+    "model": "/api/lipsync/assets/avatars/MENA/MENA_M_2_Medi.glb",
+    "thumbnail": "/api/lipsync/assets/images/MENA_M_2_Medi.jpg"
+  },
+  {
+    "id": "MENA_M_2_Milit",
+    "name": "MENA M 2 Milit",
+    "gender": "male",
+    "ethnicity": "MENA",
+    "outfit": "Milit",
+    "model": "/api/lipsync/assets/avatars/MENA/MENA_M_2_Milit.glb",
+    "thumbnail": "/api/lipsync/assets/images/MENA_M_2_Milit.jpg"
+  },
+  {
+    "id": "MENA_M_2_Util",
+    "name": "MENA M 2 Util",
+    "gender": "male",
+    "ethnicity": "MENA",
+    "outfit": "Util",
+    "model": "/api/lipsync/assets/avatars/MENA/MENA_M_2_Util.glb",
+    "thumbnail": "/api/lipsync/assets/images/MENA_M_2_Util.jpg"
+  },
+  {
+    "id": "MENA_M_3_Casual",
+    "name": "MENA M 3 Casual",
+    "gender": "male",
+    "ethnicity": "MENA",
+    "outfit": "Casual",
+    "model": "/api/lipsync/assets/avatars/MENA/MENA_M_3_Casual.glb",
+    "thumbnail": "/api/lipsync/assets/images/MENA_M_3_Casual.jpg"
+  },
+  {
+    "id": "MENA_M_3_Busi",
+    "name": "MENA M 3 Busi",
+    "gender": "male",
+    "ethnicity": "MENA",
+    "outfit": "Busi",
+    "model": "/api/lipsync/assets/avatars/MENA/MENA_M_3_Busi.glb",
+    "thumbnail": "/api/lipsync/assets/images/MENA_M_3_Busi.jpg"
+  },
+  {
+    "id": "MENA_M_3_Medi",
+    "name": "MENA M 3 Medi",
+    "gender": "male",
+    "ethnicity": "MENA",
+    "outfit": "Medi",
+    "model": "/api/lipsync/assets/avatars/MENA/MENA_M_3_Medi.glb",
+    "thumbnail": "/api/lipsync/assets/images/MENA_M_3_Medi.jpg"
+  },
+  {
+    "id": "MENA_M_3_Milit",
+    "name": "MENA M 3 Milit",
+    "gender": "male",
+    "ethnicity": "MENA",
+    "outfit": "Milit",
+    "model": "/api/lipsync/assets/avatars/MENA/MENA_M_3_Milit.glb",
+    "thumbnail": "/api/lipsync/assets/images/MENA_M_3_Milit.jpg"
+  },
+  {
+    "id": "MENA_M_3_Util",
+    "name": "MENA M 3 Util",
+    "gender": "male",
+    "ethnicity": "MENA",
+    "outfit": "Util",
+    "model": "/api/lipsync/assets/avatars/MENA/MENA_M_3_Util.glb",
+    "thumbnail": "/api/lipsync/assets/images/MENA_M_3_Util.jpg"
+  },
+  {
+    "id": "MENA_F_1_Casual",
+    "name": "MENA F 1 Casual",
+    "gender": "female",
+    "ethnicity": "MENA",
+    "outfit": "Casual",
+    "model": "/api/lipsync/assets/avatars/MENA/MENA_F_1_Casual.glb",
+    "thumbnail": "/api/lipsync/assets/images/MENA_F_1_Casual.jpg"
+  },
+  {
+    "id": "MENA_F_1_Busi",
+    "name": "MENA F 1 Busi",
+    "gender": "female",
+    "ethnicity": "MENA",
+    "outfit": "Busi",
+    "model": "/api/lipsync/assets/avatars/MENA/MENA_F_1_Busi.glb",
+    "thumbnail": "/api/lipsync/assets/images/MENA_F_1_Busi.jpg"
+  },
+  {
+    "id": "MENA_F_1_Medi",
+    "name": "MENA F 1 Medi",
+    "gender": "female",
+    "ethnicity": "MENA",
+    "outfit": "Medi",
+    "model": "/api/lipsync/assets/avatars/MENA/MENA_F_1_Medi.glb",
+    "thumbnail": "/api/lipsync/assets/images/MENA_F_1_Medi.jpg"
+  },
+  {
+    "id": "MENA_F_1_Milit",
+    "name": "MENA F 1 Milit",
+    "gender": "female",
+    "ethnicity": "MENA",
+    "outfit": "Milit",
+    "model": "/api/lipsync/assets/avatars/MENA/MENA_F_1_Milit.glb",
+    "thumbnail": "/api/lipsync/assets/images/MENA_F_1_Milit.jpg"
+  },
+  {
+    "id": "MENA_F_1_Util",
+    "name": "MENA F 1 Util",
+    "gender": "female",
+    "ethnicity": "MENA",
+    "outfit": "Util",
+    "model": "/api/lipsync/assets/avatars/MENA/MENA_F_1_Util.glb",
+    "thumbnail": "/api/lipsync/assets/images/MENA_F_1_Util.jpg"
+  },
+  {
+    "id": "MENA_F_2_Casual",
+    "name": "MENA F 2 Casual",
+    "gender": "female",
+    "ethnicity": "MENA",
+    "outfit": "Casual",
+    "model": "/api/lipsync/assets/avatars/MENA/MENA_F_2_Casual.glb",
+    "thumbnail": "/api/lipsync/assets/images/MENA_F_2_Casual.jpg"
+  },
+  {
+    "id": "MENA_F_2_Busi",
+    "name": "MENA F 2 Busi",
+    "gender": "female",
+    "ethnicity": "MENA",
+    "outfit": "Busi",
+    "model": "/api/lipsync/assets/avatars/MENA/MENA_F_2_Busi.glb",
+    "thumbnail": "/api/lipsync/assets/images/MENA_F_2_Busi.jpg"
+  },
+  {
+    "id": "MENA_F_2_Medi",
+    "name": "MENA F 2 Medi",
+    "gender": "female",
+    "ethnicity": "MENA",
+    "outfit": "Medi",
+    "model": "/api/lipsync/assets/avatars/MENA/MENA_F_2_Medi.glb",
+    "thumbnail": "/api/lipsync/assets/images/MENA_F_2_Medi.jpg"
+  },
+  {
+    "id": "MENA_F_2_Milit",
+    "name": "MENA F 2 Milit",
+    "gender": "female",
+    "ethnicity": "MENA",
+    "outfit": "Milit",
+    "model": "/api/lipsync/assets/avatars/MENA/MENA_F_2_Milit.glb",
+    "thumbnail": "/api/lipsync/assets/images/MENA_F_2_Milit.jpg"
+  },
+  {
+    "id": "MENA_F_2_Util",
+    "name": "MENA F 2 Util",
+    "gender": "female",
+    "ethnicity": "MENA",
+    "outfit": "Util",
+    "model": "/api/lipsync/assets/avatars/MENA/MENA_F_2_Util.glb",
+    "thumbnail": "/api/lipsync/assets/images/MENA_F_2_Util.jpg"
+  },
+  {
+    "id": "NHPI_M_1_Casual",
+    "name": "NHPI M 1 Casual",
+    "gender": "male",
+    "ethnicity": "NHPI",
+    "outfit": "Casual",
+    "model": "/api/lipsync/assets/avatars/NHPI/NHPI_M_1_Casual.glb",
+    "thumbnail": "/api/lipsync/assets/images/NHPI_M_1_Casual.jpg"
+  },
+  {
+    "id": "NHPI_M_1_Busi",
+    "name": "NHPI M 1 Busi",
+    "gender": "male",
+    "ethnicity": "NHPI",
+    "outfit": "Busi",
+    "model": "/api/lipsync/assets/avatars/NHPI/NHPI_M_1_Busi.glb",
+    "thumbnail": "/api/lipsync/assets/images/NHPI_M_1_Busi.jpg"
+  },
+  {
+    "id": "NHPI_M_1_Medi",
+    "name": "NHPI M 1 Medi",
+    "gender": "male",
+    "ethnicity": "NHPI",
+    "outfit": "Medi",
+    "model": "/api/lipsync/assets/avatars/NHPI/NHPI_M_1_Medi.glb",
+    "thumbnail": "/api/lipsync/assets/images/NHPI_M_1_Medi.jpg"
+  },
+  {
+    "id": "NHPI_M_1_Milit",
+    "name": "NHPI M 1 Milit",
+    "gender": "male",
+    "ethnicity": "NHPI",
+    "outfit": "Milit",
+    "model": "/api/lipsync/assets/avatars/NHPI/NHPI_M_1_Milit.glb",
+    "thumbnail": "/api/lipsync/assets/images/NHPI_M_1_Milit.jpg"
+  },
+  {
+    "id": "NHPI_M_1_Util",
+    "name": "NHPI M 1 Util",
+    "gender": "male",
+    "ethnicity": "NHPI",
+    "outfit": "Util",
+    "model": "/api/lipsync/assets/avatars/NHPI/NHPI_M_1_Util.glb",
+    "thumbnail": "/api/lipsync/assets/images/NHPI_M_1_Util.jpg"
+  },
+  {
+    "id": "NHPI_M_2_Casual",
+    "name": "NHPI M 2 Casual",
+    "gender": "male",
+    "ethnicity": "NHPI",
+    "outfit": "Casual",
+    "model": "/api/lipsync/assets/avatars/NHPI/NHPI_M_2_Casual.glb",
+    "thumbnail": "/api/lipsync/assets/images/NHPI_M_2_Casual.jpg"
+  },
+  {
+    "id": "NHPI_M_2_Busi",
+    "name": "NHPI M 2 Busi",
+    "gender": "male",
+    "ethnicity": "NHPI",
+    "outfit": "Busi",
+    "model": "/api/lipsync/assets/avatars/NHPI/NHPI_M_2_Busi.glb",
+    "thumbnail": "/api/lipsync/assets/images/NHPI_M_2_Busi.jpg"
+  },
+  {
+    "id": "NHPI_M_2_Medi",
+    "name": "NHPI M 2 Medi",
+    "gender": "male",
+    "ethnicity": "NHPI",
+    "outfit": "Medi",
+    "model": "/api/lipsync/assets/avatars/NHPI/NHPI_M_2_Medi.glb",
+    "thumbnail": "/api/lipsync/assets/images/NHPI_M_2_Medi.jpg"
+  },
+  {
+    "id": "NHPI_M_2_Milit",
+    "name": "NHPI M 2 Milit",
+    "gender": "male",
+    "ethnicity": "NHPI",
+    "outfit": "Milit",
+    "model": "/api/lipsync/assets/avatars/NHPI/NHPI_M_2_Milit.glb",
+    "thumbnail": "/api/lipsync/assets/images/NHPI_M_2_Milit.jpg"
+  },
+  {
+    "id": "NHPI_M_2_Util",
+    "name": "NHPI M 2 Util",
+    "gender": "male",
+    "ethnicity": "NHPI",
+    "outfit": "Util",
+    "model": "/api/lipsync/assets/avatars/NHPI/NHPI_M_2_Util.glb",
+    "thumbnail": "/api/lipsync/assets/images/NHPI_M_2_Util.jpg"
+  },
+  {
+    "id": "White_M_1_Casual",
+    "name": "White M 1 Casual",
+    "gender": "male",
+    "ethnicity": "White",
+    "outfit": "Casual",
+    "model": "/api/lipsync/assets/avatars/White/White_M_1_Casual.glb",
+    "thumbnail": "/api/lipsync/assets/images/White_M_1_Casual.jpg"
+  },
+  {
+    "id": "White_M_1_Busi",
+    "name": "White M 1 Busi",
+    "gender": "male",
+    "ethnicity": "White",
+    "outfit": "Busi",
+    "model": "/api/lipsync/assets/avatars/White/White_M_1_Busi.glb",
+    "thumbnail": "/api/lipsync/assets/images/White_M_1_Busi.jpg"
+  },
+  {
+    "id": "White_M_1_Medi",
+    "name": "White M 1 Medi",
+    "gender": "male",
+    "ethnicity": "White",
+    "outfit": "Medi",
+    "model": "/api/lipsync/assets/avatars/White/White_M_1_Medi.glb",
+    "thumbnail": "/api/lipsync/assets/images/White_M_1_Medi.jpg"
+  },
+  {
+    "id": "White_M_1_Milit",
+    "name": "White M 1 Milit",
+    "gender": "male",
+    "ethnicity": "White",
+    "outfit": "Milit",
+    "model": "/api/lipsync/assets/avatars/White/White_M_1_Milit.glb",
+    "thumbnail": "/api/lipsync/assets/images/White_M_1_Milit.jpg"
+  },
+  {
+    "id": "White_M_1_Util",
+    "name": "White M 1 Util",
+    "gender": "male",
+    "ethnicity": "White",
+    "outfit": "Util",
+    "model": "/api/lipsync/assets/avatars/White/White_M_1_Util.glb",
+    "thumbnail": "/api/lipsync/assets/images/White_M_1_Util.jpg"
+  },
+  {
+    "id": "White_M_2_Casual",
+    "name": "White M 2 Casual",
+    "gender": "male",
+    "ethnicity": "White",
+    "outfit": "Casual",
+    "model": "/api/lipsync/assets/avatars/White/White_M_2_Casual.glb",
+    "thumbnail": "/api/lipsync/assets/images/White_M_2_Casual.jpg"
+  },
+  {
+    "id": "White_M_2_Busi",
+    "name": "White M 2 Busi",
+    "gender": "male",
+    "ethnicity": "White",
+    "outfit": "Busi",
+    "model": "/api/lipsync/assets/avatars/White/White_M_2_Busi.glb",
+    "thumbnail": "/api/lipsync/assets/images/White_M_2_Busi.jpg"
+  },
+  {
+    "id": "White_M_2_Medi",
+    "name": "White M 2 Medi",
+    "gender": "male",
+    "ethnicity": "White",
+    "outfit": "Medi",
+    "model": "/api/lipsync/assets/avatars/White/White_M_2_Medi.glb",
+    "thumbnail": "/api/lipsync/assets/images/White_M_2_Medi.jpg"
+  },
+  {
+    "id": "White_M_2_Milit",
+    "name": "White M 2 Milit",
+    "gender": "male",
+    "ethnicity": "White",
+    "outfit": "Milit",
+    "model": "/api/lipsync/assets/avatars/White/White_M_2_Milit.glb",
+    "thumbnail": "/api/lipsync/assets/images/White_M_2_Milit.jpg"
+  },
+  {
+    "id": "White_M_2_Util",
+    "name": "White M 2 Util",
+    "gender": "male",
+    "ethnicity": "White",
+    "outfit": "Util",
+    "model": "/api/lipsync/assets/avatars/White/White_M_2_Util.glb",
+    "thumbnail": "/api/lipsync/assets/images/White_M_2_Util.jpg"
+  },
+  {
+    "id": "White_M_3_Casual",
+    "name": "White M 3 Casual",
+    "gender": "male",
+    "ethnicity": "White",
+    "outfit": "Casual",
+    "model": "/api/lipsync/assets/avatars/White/White_M_3_Casual.glb",
+    "thumbnail": "/api/lipsync/assets/images/White_M_3_Casual.jpg"
+  },
+  {
+    "id": "White_M_3_Busi",
+    "name": "White M 3 Busi",
+    "gender": "male",
+    "ethnicity": "White",
+    "outfit": "Busi",
+    "model": "/api/lipsync/assets/avatars/White/White_M_3_Busi.glb",
+    "thumbnail": "/api/lipsync/assets/images/White_M_3_Busi.jpg"
+  },
+  {
+    "id": "White_M_3_Medi",
+    "name": "White M 3 Medi",
+    "gender": "male",
+    "ethnicity": "White",
+    "outfit": "Medi",
+    "model": "/api/lipsync/assets/avatars/White/White_M_3_Medi.glb",
+    "thumbnail": "/api/lipsync/assets/images/White_M_3_Medi.jpg"
+  },
+  {
+    "id": "White_M_3_Milit",
+    "name": "White M 3 Milit",
+    "gender": "male",
+    "ethnicity": "White",
+    "outfit": "Milit",
+    "model": "/api/lipsync/assets/avatars/White/White_M_3_Milit.glb",
+    "thumbnail": "/api/lipsync/assets/images/White_M_3_Milit.jpg"
+  },
+  {
+    "id": "White_M_3_Util",
+    "name": "White M 3 Util",
+    "gender": "male",
+    "ethnicity": "White",
+    "outfit": "Util",
+    "model": "/api/lipsync/assets/avatars/White/White_M_3_Util.glb",
+    "thumbnail": "/api/lipsync/assets/images/White_M_3_Util.jpg"
+  },
+  {
+    "id": "White_F_1_Casual",
+    "name": "White F 1 Casual",
+    "gender": "female",
+    "ethnicity": "White",
+    "outfit": "Casual",
+    "model": "/api/lipsync/assets/avatars/White/White_F_1_Casual.glb",
+    "thumbnail": "/api/lipsync/assets/images/White_F_1_Casual.jpg"
+  },
+  {
+    "id": "White_F_1_Busi",
+    "name": "White F 1 Busi",
+    "gender": "female",
+    "ethnicity": "White",
+    "outfit": "Busi",
+    "model": "/api/lipsync/assets/avatars/White/White_F_1_Busi.glb",
+    "thumbnail": "/api/lipsync/assets/images/White_F_1_Busi.jpg"
+  },
+  {
+    "id": "White_F_1_Medi",
+    "name": "White F 1 Medi",
+    "gender": "female",
+    "ethnicity": "White",
+    "outfit": "Medi",
+    "model": "/api/lipsync/assets/avatars/White/White_F_1_Medi.glb",
+    "thumbnail": "/api/lipsync/assets/images/White_F_1_Medi.jpg"
+  },
+  {
+    "id": "White_F_1_Milit",
+    "name": "White F 1 Milit",
+    "gender": "female",
+    "ethnicity": "White",
+    "outfit": "Milit",
+    "model": "/api/lipsync/assets/avatars/White/White_F_1_Milit.glb",
+    "thumbnail": "/api/lipsync/assets/images/White_F_1_Milit.jpg"
+  },
+  {
+    "id": "White_F_1_Util",
+    "name": "White F 1 Util",
+    "gender": "female",
+    "ethnicity": "White",
+    "outfit": "Util",
+    "model": "/api/lipsync/assets/avatars/White/White_F_1_Util.glb",
+    "thumbnail": "/api/lipsync/assets/images/White_F_1_Util.jpg"
+  },
+  {
+    "id": "White_F_2_Casual",
+    "name": "White F 2 Casual",
+    "gender": "female",
+    "ethnicity": "White",
+    "outfit": "Casual",
+    "model": "/api/lipsync/assets/avatars/White/White_F_2_Casual.glb",
+    "thumbnail": "/api/lipsync/assets/images/White_F_2_Casual.jpg"
+  },
+  {
+    "id": "White_F_2_Busi",
+    "name": "White F 2 Busi",
+    "gender": "female",
+    "ethnicity": "White",
+    "outfit": "Busi",
+    "model": "/api/lipsync/assets/avatars/White/White_F_2_Busi.glb",
+    "thumbnail": "/api/lipsync/assets/images/White_F_2_Busi.jpg"
+  },
+  {
+    "id": "White_F_2_Medi",
+    "name": "White F 2 Medi",
+    "gender": "female",
+    "ethnicity": "White",
+    "outfit": "Medi",
+    "model": "/api/lipsync/assets/avatars/White/White_F_2_Medi.glb",
+    "thumbnail": "/api/lipsync/assets/images/White_F_2_Medi.jpg"
+  },
+  {
+    "id": "White_F_2_Milit",
+    "name": "White F 2 Milit",
+    "gender": "female",
+    "ethnicity": "White",
+    "outfit": "Milit",
+    "model": "/api/lipsync/assets/avatars/White/White_F_2_Milit.glb",
+    "thumbnail": "/api/lipsync/assets/images/White_F_2_Milit.jpg"
+  },
+  {
+    "id": "White_F_2_Util",
+    "name": "White F 2 Util",
+    "gender": "female",
+    "ethnicity": "White",
+    "outfit": "Util",
+    "model": "/api/lipsync/assets/avatars/White/White_F_2_Util.glb",
+    "thumbnail": "/api/lipsync/assets/images/White_F_2_Util.jpg"
+  },
+  {
+    "id": "White_F_3_Casual",
+    "name": "White F 3 Casual",
+    "gender": "female",
+    "ethnicity": "White",
+    "outfit": "Casual",
+    "model": "/api/lipsync/assets/avatars/White/White_F_3_Casual.glb",
+    "thumbnail": "/api/lipsync/assets/images/White_F_3_Casual.jpg"
+  },
+  {
+    "id": "White_F_3_Busi",
+    "name": "White F 3 Busi",
+    "gender": "female",
+    "ethnicity": "White",
+    "outfit": "Busi",
+    "model": "/api/lipsync/assets/avatars/White/White_F_3_Busi.glb",
+    "thumbnail": "/api/lipsync/assets/images/White_F_3_Busi.jpg"
+  },
+  {
+    "id": "White_F_3_Medi",
+    "name": "White F 3 Medi",
+    "gender": "female",
+    "ethnicity": "White",
+    "outfit": "Medi",
+    "model": "/api/lipsync/assets/avatars/White/White_F_3_Medi.glb",
+    "thumbnail": "/api/lipsync/assets/images/White_F_3_Medi.jpg"
+  },
+  {
+    "id": "White_F_3_Milit",
+    "name": "White F 3 Milit",
+    "gender": "female",
+    "ethnicity": "White",
+    "outfit": "Milit",
+    "model": "/api/lipsync/assets/avatars/White/White_F_3_Milit.glb",
+    "thumbnail": "/api/lipsync/assets/images/White_F_3_Milit.jpg"
+  },
+  {
+    "id": "White_F_3_Util",
+    "name": "White F 3 Util",
+    "gender": "female",
+    "ethnicity": "White",
+    "outfit": "Util",
+    "model": "/api/lipsync/assets/avatars/White/White_F_3_Util.glb",
+    "thumbnail": "/api/lipsync/assets/images/White_F_3_Util.jpg"
+  },
+  {
+    "id": "X_AIAN_M_1_Casual",
+    "name": "X AIAN M 1 Casual",
+    "gender": "male",
+    "ethnicity": "X_AIAN",
+    "outfit": "Casual",
+    "model": "/api/lipsync/assets/avatars/X_Non-validated/X_AIAN_M_1_Casual.glb",
+    "thumbnail": "/api/lipsync/assets/images/X_AIAN_M_1_Casual.jpg"
+  },
+  {
+    "id": "X_AIAN_M_1_Busi",
+    "name": "X AIAN M 1 Busi",
+    "gender": "male",
+    "ethnicity": "X_AIAN",
+    "outfit": "Busi",
+    "model": "/api/lipsync/assets/avatars/X_Non-validated/X_AIAN_M_1_Busi.glb",
+    "thumbnail": "/api/lipsync/assets/images/X_AIAN_M_1_Busi.jpg"
+  },
+  {
+    "id": "X_AIAN_M_1_Medi",
+    "name": "X AIAN M 1 Medi",
+    "gender": "male",
+    "ethnicity": "X_AIAN",
+    "outfit": "Medi",
+    "model": "/api/lipsync/assets/avatars/X_Non-validated/X_AIAN_M_1_Medi.glb",
+    "thumbnail": "/api/lipsync/assets/images/X_AIAN_M_1_Medi.jpg"
+  },
+  {
+    "id": "X_AIAN_M_1_Milit",
+    "name": "X AIAN M 1 Milit",
+    "gender": "male",
+    "ethnicity": "X_AIAN",
+    "outfit": "Milit",
+    "model": "/api/lipsync/assets/avatars/X_Non-validated/X_AIAN_M_1_Milit.glb",
+    "thumbnail": "/api/lipsync/assets/images/X_AIAN_M_1_Milit.jpg"
+  },
+  {
+    "id": "X_AIAN_M_1_Util",
+    "name": "X AIAN M 1 Util",
+    "gender": "male",
+    "ethnicity": "X_AIAN",
+    "outfit": "Util",
+    "model": "/api/lipsync/assets/avatars/X_Non-validated/X_AIAN_M_1_Util.glb",
+    "thumbnail": "/api/lipsync/assets/images/X_AIAN_M_1_Util.jpg"
+  },
+  {
+    "id": "X_AIAN_F_1_Casual",
+    "name": "X AIAN F 1 Casual",
+    "gender": "female",
+    "ethnicity": "X_AIAN",
+    "outfit": "Casual",
+    "model": "/api/lipsync/assets/avatars/X_Non-validated/X_AIAN_F_1_Casual.glb",
+    "thumbnail": "/api/lipsync/assets/images/X_AIAN_F_1_Casual.jpg"
+  },
+  {
+    "id": "X_AIAN_F_1_Busi",
+    "name": "X AIAN F 1 Busi",
+    "gender": "female",
+    "ethnicity": "X_AIAN",
+    "outfit": "Busi",
+    "model": "/api/lipsync/assets/avatars/X_Non-validated/X_AIAN_F_1_Busi.glb",
+    "thumbnail": "/api/lipsync/assets/images/X_AIAN_F_1_Busi.jpg"
+  },
+  {
+    "id": "X_AIAN_F_1_Medi",
+    "name": "X AIAN F 1 Medi",
+    "gender": "female",
+    "ethnicity": "X_AIAN",
+    "outfit": "Medi",
+    "model": "/api/lipsync/assets/avatars/X_Non-validated/X_AIAN_F_1_Medi.glb",
+    "thumbnail": "/api/lipsync/assets/images/X_AIAN_F_1_Medi.jpg"
+  },
+  {
+    "id": "X_AIAN_F_1_Milit",
+    "name": "X AIAN F 1 Milit",
+    "gender": "female",
+    "ethnicity": "X_AIAN",
+    "outfit": "Milit",
+    "model": "/api/lipsync/assets/avatars/X_Non-validated/X_AIAN_F_1_Milit.glb",
+    "thumbnail": "/api/lipsync/assets/images/X_AIAN_F_1_Milit.jpg"
+  },
+  {
+    "id": "X_AIAN_F_1_Util",
+    "name": "X AIAN F 1 Util",
+    "gender": "female",
+    "ethnicity": "X_AIAN",
+    "outfit": "Util",
+    "model": "/api/lipsync/assets/avatars/X_Non-validated/X_AIAN_F_1_Util.glb",
+    "thumbnail": "/api/lipsync/assets/images/X_AIAN_F_1_Util.jpg"
+  },
+  {
+    "id": "X_MENA_F_1_Casual",
+    "name": "X MENA F 1 Casual",
+    "gender": "female",
+    "ethnicity": "X_MENA",
+    "outfit": "Casual",
+    "model": "/api/lipsync/assets/avatars/X_Non-validated/X_MENA_F_1_Casual.glb",
+    "thumbnail": "/api/lipsync/assets/images/X_MENA_F_1_Casual.jpg"
+  },
+  {
+    "id": "X_MENA_F_1_Busi",
+    "name": "X MENA F 1 Busi",
+    "gender": "female",
+    "ethnicity": "X_MENA",
+    "outfit": "Busi",
+    "model": "/api/lipsync/assets/avatars/X_Non-validated/X_MENA_F_1_Busi.glb",
+    "thumbnail": "/api/lipsync/assets/images/X_MENA_F_1_Busi.jpg"
+  },
+  {
+    "id": "X_MENA_F_1_Medi",
+    "name": "X MENA F 1 Medi",
+    "gender": "female",
+    "ethnicity": "X_MENA",
+    "outfit": "Medi",
+    "model": "/api/lipsync/assets/avatars/X_Non-validated/X_MENA_F_1_Medi.glb",
+    "thumbnail": "/api/lipsync/assets/images/X_MENA_F_1_Medi.jpg"
+  },
+  {
+    "id": "X_MENA_F_1_Milit",
+    "name": "X MENA F 1 Milit",
+    "gender": "female",
+    "ethnicity": "X_MENA",
+    "outfit": "Milit",
+    "model": "/api/lipsync/assets/avatars/X_Non-validated/X_MENA_F_1_Milit.glb",
+    "thumbnail": "/api/lipsync/assets/images/X_MENA_F_1_Milit.jpg"
+  },
+  {
+    "id": "X_MENA_F_1_Util",
+    "name": "X MENA F 1 Util",
+    "gender": "female",
+    "ethnicity": "X_MENA",
+    "outfit": "Util",
+    "model": "/api/lipsync/assets/avatars/X_Non-validated/X_MENA_F_1_Util.glb",
+    "thumbnail": "/api/lipsync/assets/images/X_MENA_F_1_Util.jpg"
+  },
+  {
+    "id": "X_NHPI_F_1_Casual",
+    "name": "X NHPI F 1 Casual",
+    "gender": "female",
+    "ethnicity": "X_NHPI",
+    "outfit": "Casual",
+    "model": "/api/lipsync/assets/avatars/X_Non-validated/X_NHPI_F_1_Casual.glb",
+    "thumbnail": "/api/lipsync/assets/images/X_NHPI_F_1_Casual.jpg"
+  },
+  {
+    "id": "X_NHPI_F_1_Busi",
+    "name": "X NHPI F 1 Busi",
+    "gender": "female",
+    "ethnicity": "X_NHPI",
+    "outfit": "Busi",
+    "model": "/api/lipsync/assets/avatars/X_Non-validated/X_NHPI_F_1_Busi.glb",
+    "thumbnail": "/api/lipsync/assets/images/X_NHPI_F_1_Busi.jpg"
+  },
+  {
+    "id": "X_NHPI_F_1_Medi",
+    "name": "X NHPI F 1 Medi",
+    "gender": "female",
+    "ethnicity": "X_NHPI",
+    "outfit": "Medi",
+    "model": "/api/lipsync/assets/avatars/X_Non-validated/X_NHPI_F_1_Medi.glb",
+    "thumbnail": "/api/lipsync/assets/images/X_NHPI_F_1_Medi.jpg"
+  },
+  {
+    "id": "X_NHPI_F_1_Milit",
+    "name": "X NHPI F 1 Milit",
+    "gender": "female",
+    "ethnicity": "X_NHPI",
+    "outfit": "Milit",
+    "model": "/api/lipsync/assets/avatars/X_Non-validated/X_NHPI_F_1_Milit.glb",
+    "thumbnail": "/api/lipsync/assets/images/X_NHPI_F_1_Milit.jpg"
+  },
+  {
+    "id": "X_NHPI_F_1_Util",
+    "name": "X NHPI F 1 Util",
+    "gender": "female",
+    "ethnicity": "X_NHPI",
+    "outfit": "Util",
+    "model": "/api/lipsync/assets/avatars/X_Non-validated/X_NHPI_F_1_Util.glb",
+    "thumbnail": "/api/lipsync/assets/images/X_NHPI_F_1_Util.jpg"
+  },
+  {
+    "id": "X_NHPI_F_2_Casual",
+    "name": "X NHPI F 2 Casual",
+    "gender": "female",
+    "ethnicity": "X_NHPI",
+    "outfit": "Casual",
+    "model": "/api/lipsync/assets/avatars/X_Non-validated/X_NHPI_F_2_Casual.glb",
+    "thumbnail": "/api/lipsync/assets/images/X_NHPI_F_2_Casual.jpg"
+  },
+  {
+    "id": "X_NHPI_F_2_Busi",
+    "name": "X NHPI F 2 Busi",
+    "gender": "female",
+    "ethnicity": "X_NHPI",
+    "outfit": "Busi",
+    "model": "/api/lipsync/assets/avatars/X_Non-validated/X_NHPI_F_2_Busi.glb",
+    "thumbnail": "/api/lipsync/assets/images/X_NHPI_F_2_Busi.jpg"
+  },
+  {
+    "id": "X_NHPI_F_2_Medi",
+    "name": "X NHPI F 2 Medi",
+    "gender": "female",
+    "ethnicity": "X_NHPI",
+    "outfit": "Medi",
+    "model": "/api/lipsync/assets/avatars/X_Non-validated/X_NHPI_F_2_Medi.glb",
+    "thumbnail": "/api/lipsync/assets/images/X_NHPI_F_2_Medi.jpg"
+  },
+  {
+    "id": "X_NHPI_F_2_Milit",
+    "name": "X NHPI F 2 Milit",
+    "gender": "female",
+    "ethnicity": "X_NHPI",
+    "outfit": "Milit",
+    "model": "/api/lipsync/assets/avatars/X_Non-validated/X_NHPI_F_2_Milit.glb",
+    "thumbnail": "/api/lipsync/assets/images/X_NHPI_F_2_Milit.jpg"
+  },
+  {
+    "id": "X_NHPI_F_2_Util",
+    "name": "X NHPI F 2 Util",
+    "gender": "female",
+    "ethnicity": "X_NHPI",
+    "outfit": "Util",
+    "model": "/api/lipsync/assets/avatars/X_Non-validated/X_NHPI_F_2_Util.glb",
+    "thumbnail": "/api/lipsync/assets/images/X_NHPI_F_2_Util.jpg"
+  },
+  {
+    "id": "X_NHPI_M_1_Util",
+    "name": "X NHPI M 1 Util",
+    "gender": "male",
+    "ethnicity": "X_NHPI",
+    "outfit": "Util",
+    "model": "/api/lipsync/assets/avatars/X_Non-validated/X_NHPI_M_1_Util.glb",
+    "thumbnail": "/api/lipsync/assets/images/X_NHPI_M_1_Util.jpg"
+  },
+  {
+    "id": "X_NHPI_F_3_Casual",
+    "name": "X NHPI F 3 Casual",
+    "gender": "female",
+    "ethnicity": "X_NHPI",
+    "outfit": "Casual",
+    "model": "/api/lipsync/assets/avatars/X_Non-validated/X_NHPI_F_3_Casual.glb",
+    "thumbnail": "/api/lipsync/assets/images/X_NHPI_F_3_Casual.jpg"
+  },
+  {
+    "id": "X_NHPI_F_3_Busi",
+    "name": "X NHPI F 3 Busi",
+    "gender": "female",
+    "ethnicity": "X_NHPI",
+    "outfit": "Busi",
+    "model": "/api/lipsync/assets/avatars/X_Non-validated/X_NHPI_F_3_Busi.glb",
+    "thumbnail": "/api/lipsync/assets/images/X_NHPI_F_3_Busi.jpg"
+  },
+  {
+    "id": "X_NHPI_F_3_Medi",
+    "name": "X NHPI F 3 Medi",
+    "gender": "female",
+    "ethnicity": "X_NHPI",
+    "outfit": "Medi",
+    "model": "/api/lipsync/assets/avatars/X_Non-validated/X_NHPI_F_3_Medi.glb",
+    "thumbnail": "/api/lipsync/assets/images/X_NHPI_F_3_Medi.jpg"
+  },
+  {
+    "id": "X_NHPI_F_3_Milit",
+    "name": "X NHPI F 3 Milit",
+    "gender": "female",
+    "ethnicity": "X_NHPI",
+    "outfit": "Milit",
+    "model": "/api/lipsync/assets/avatars/X_Non-validated/X_NHPI_F_3_Milit.glb",
+    "thumbnail": "/api/lipsync/assets/images/X_NHPI_F_3_Milit.jpg"
+  },
+  {
+    "id": "X_NHPI_F_3_Util",
+    "name": "X NHPI F 3 Util",
+    "gender": "female",
+    "ethnicity": "X_NHPI",
+    "outfit": "Util",
+    "model": "/api/lipsync/assets/avatars/X_Non-validated/X_NHPI_F_3_Util.glb",
+    "thumbnail": "/api/lipsync/assets/images/X_NHPI_F_3_Util.jpg"
+  },
+  {
+    "id": "X_NHPI_M_1_Casual",
+    "name": "X NHPI M 1 Casual",
+    "gender": "male",
+    "ethnicity": "X_NHPI",
+    "outfit": "Casual",
+    "model": "/api/lipsync/assets/avatars/X_Non-validated/X_NHPI_M_1_Casual.glb",
+    "thumbnail": "/api/lipsync/assets/images/X_NHPI_M_1_Casual.jpg"
+  },
+  {
+    "id": "X_NHPI_M_1_Busi",
+    "name": "X NHPI M 1 Busi",
+    "gender": "male",
+    "ethnicity": "X_NHPI",
+    "outfit": "Busi",
+    "model": "/api/lipsync/assets/avatars/X_Non-validated/X_NHPI_M_1_Busi.glb",
+    "thumbnail": "/api/lipsync/assets/images/X_NHPI_M_1_Busi.jpg"
+  },
+  {
+    "id": "X_NHPI_M_1_Medi",
+    "name": "X NHPI M 1 Medi",
+    "gender": "male",
+    "ethnicity": "X_NHPI",
+    "outfit": "Medi",
+    "model": "/api/lipsync/assets/avatars/X_Non-validated/X_NHPI_M_1_Medi.glb",
+    "thumbnail": "/api/lipsync/assets/images/X_NHPI_M_1_Medi.jpg"
+  },
+  {
+    "id": "X_NHPI_M_1_Milit",
+    "name": "X NHPI M 1 Milit",
+    "gender": "male",
+    "ethnicity": "X_NHPI",
+    "outfit": "Milit",
+    "model": "/api/lipsync/assets/avatars/X_Non-validated/X_NHPI_M_1_Milit.glb",
+    "thumbnail": "/api/lipsync/assets/images/X_NHPI_M_1_Milit.jpg"
+  }
+]
