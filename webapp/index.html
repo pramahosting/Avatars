@@ -1,0 +1,192 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>LiteAvatar Player</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<div id="app">
+  <div id="sidebar">
+    <div id="sidebar-header">
+      <div id="mode-nav">
+        <a class="mode-tab active" href="index.html">AI Video Generator</a>
+        <a class="mode-tab" href="lipsync.html">Instant 3D Avatar</a>
+      </div>
+      <h1>LiteAvatar</h1>
+      <div class="filters">
+        <div class="filter-row">
+          <label>Search</label>
+          <input type="text" id="search" placeholder="e.g. avatar_01">
+        </div>
+        <div class="filter-row">
+          <div class="filter-field">
+            <label>Ethnicity</label>
+            <select id="filter-ethnicity"><option value="">All</option></select>
+          </div>
+          <div class="filter-field">
+            <label>Gender</label>
+            <select id="filter-gender"><option value="">All</option></select>
+          </div>
+        </div>
+      </div>
+      <div class="count" id="count-label">Loading avatars&hellip;</div>
+    </div>
+    <div id="list" class="scroll-y">
+      <div class="list-empty" id="listEmpty">Looking for avatars in <code>data/</code>&hellip;</div>
+    </div>
+    <div id="sidebar-footer">
+      <details class="hint">
+        <summary>Where do I get more avatars?</summary>
+        <p>Extra avatar presets from the
+          <a href="https://modelscope.cn/models/HumanAIGC-Engineering/LiteAvatarGallery" target="_blank" rel="noopener">LiteAvatar Gallery</a>
+          can be dropped into the <code>data/Avatars_2D/</code> folder as a subfolder containing
+          <code>net_encode.pt</code>, <code>net_decode.pt</code>, <code>bg_video.mp4</code> and the rest of
+          the preset files &mdash; they'll show up here automatically next time this page loads.
+          If you've downloaded the gallery's <code>20250408</code>/<code>20250612</code> zip folders,
+          use the <strong>Import new avatars</strong> button in the right panel instead of doing this by hand.</p>
+      </details>
+      <details class="hint">
+        <summary>How do the Ethnicity/Gender filters work?</summary>
+        <p>Unlike the 3D avatars, there's no way to automatically detect
+          these from a LiteAvatar model folder - it's just neural network
+          weights and a background video, no such metadata exists in it.
+          To tag an avatar, add a <code>meta.json</code> file next to its
+          folder (e.g. <code>data/Avatars_2D/avatar_03/meta.json</code>):</p>
+        <p><code>{"gender": "female", "ethnicity": ""}</code></p>
+        <p>Leave a field blank and it just won't appear in that filter.</p>
+      </details>
+    </div>
+  </div>
+
+  <div id="viewer-pane">
+    <div id="avatar-window">
+      <div id="stage-scroll">
+        <div id="stage-container">
+          <img id="avatarPreview" alt="" hidden>
+          <video id="player" controls playsinline></video>
+        </div>
+      </div>
+      <audio id="instantAudio" hidden></audio>
+
+      <div id="viewer-hud">
+        <div>
+          <div id="current-name">Pick an avatar from the list</div>
+          <div id="current-tags"></div>
+        </div>
+        <div>
+          <div id="stage-footer" hidden>
+            <a id="downloadLink" download>Download .mp4</a>
+          </div>
+        </div>
+      </div>
+
+      <div id="empty">Select an avatar on the left, choose audio, then press Generate Video.</div>
+
+      <div id="loading" hidden>
+        <p id="loadingText">Generating&hellip;</p>
+        <p class="loading-sub">CPU inference &mdash; a short clip usually takes a minute or two.</p>
+      </div>
+
+      <div id="error-banner" hidden></div>
+    </div>
+  </div>
+
+  <div id="control-sidebar">
+    <div id="control-sidebar-header">
+      <h2 class="section-title">Generate Video</h2>
+      <p class="control-sidebar-sub">Pick an avatar on the left, audio here, then Generate Video.</p>
+    </div>
+    <div id="control-panel" class="scroll-y">
+      <div class="audio-tabs">
+        <button type="button" class="audio-tab active" data-tab="upload">Upload a file</button>
+        <button type="button" class="audio-tab" data-tab="sample">Use sample</button>
+      </div>
+
+      <div class="audio-panel" data-panel="upload">
+        <label class="dropzone" id="dropzone" for="audioInput">
+          <input type="file" id="audioInput" accept="audio/*" hidden>
+          <span id="dropzoneText">Drop an audio file here, or click to browse<br><small>wav, mp3, m4a, ogg, webm&hellip;</small></span>
+        </label>
+      </div>
+
+      <div class="audio-panel" data-panel="sample" hidden>
+        <label class="select-label" for="sampleSelect">Sample audio</label>
+        <select id="sampleSelect"></select>
+        <button id="regenSamplesBtn" type="button">Regenerate with edge-tts</button>
+        <div id="regenSamplesStatus" class="audio-status"></div>
+      </div>
+
+      <div class="row">
+        <button id="generateBtn" disabled>Generate Video</button>
+      </div>
+
+      <hr class="panel-divider">
+
+      <div id="instant-section" hidden>
+        <label class="select-label section-title">Instant Preview</label>
+        <p class="hint-text" id="instantHintText">
+          Skips the neural pipeline entirely: swaps between three
+          pre-baked mouth shapes live as the audio plays, so it starts
+          immediately instead of waiting on CPU generation - lower
+          fidelity than Generate Video, same idea as the Instant 3D Avatar mode.
+        </p>
+        <button id="generateInstantBtn" type="button" class="secondary-btn" hidden>Bake instant preview for this avatar</button>
+        <button id="playInstantBtn" type="button" disabled>Play instant preview</button>
+        <div id="instantStatus" class="audio-status"></div>
+      </div>
+
+      <hr class="panel-divider">
+
+      <div id="tag-section">
+        <label class="select-label section-title">Tag this avatar</label>
+        <p class="hint-text" id="tagAvatarName">Select an avatar on the left first.</p>
+        <div class="filter-row">
+          <label>Gender</label>
+          <select id="tagGender" disabled>
+            <option value="">Unspecified</option>
+            <option value="male">Male</option>
+            <option value="female">Female</option>
+            <option value="other">Other</option>
+          </select>
+        </div>
+        <div class="filter-row">
+          <label>Ethnicity</label>
+          <select id="tagEthnicity" disabled>
+            <option value="">Unspecified</option>
+            <option value="AIAN">AIAN</option>
+            <option value="Asian">Asian</option>
+            <option value="Black">Black</option>
+            <option value="Hispanic">Hispanic</option>
+            <option value="Indian">Indian</option>
+            <option value="MENA">MENA</option>
+            <option value="NHPI">NHPI</option>
+            <option value="White">White</option>
+            <option value="Other">Other</option>
+          </select>
+        </div>
+        <button id="tagSaveBtn" type="button" disabled>Save tags</button>
+        <div id="tagStatus" class="audio-status"></div>
+      </div>
+
+      <hr class="panel-divider">
+
+      <div id="import-section">
+        <label class="select-label section-title">Import avatars</label>
+        <p class="hint-text">Pulls in any zip files sitting in
+          <code>data\Avatars_2D\20250408\</code> and
+          <code>\20250612\</code> (the LiteAvatarGallery download layout),
+          extracting each and renaming it to the next <code>avatar_NN</code>.
+          Original zip files are left untouched.</p>
+        <button id="importBtn" type="button">Import new avatars</button>
+        <div id="importStatus" class="audio-status"></div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<script src="app.js"></script>
+</body>
+</html>

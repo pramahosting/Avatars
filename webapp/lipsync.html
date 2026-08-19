@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>LiteAvatar - Instant 3D Avatar</title>
+<link rel="stylesheet" href="style.css">
+<link rel="stylesheet" href="lipsync.css">
+<script type="importmap">
+{
+  "imports": {
+    "three": "/vendor/three/three.module.min.js"
+  }
+}
+</script>
+</head>
+<body>
+
+<div id="app">
+  <div id="sidebar">
+    <div id="sidebar-header">
+      <div id="mode-nav">
+        <a class="mode-tab" href="index.html">AI Video Generator</a>
+        <a class="mode-tab active" href="lipsync.html">Instant 3D Avatar</a>
+      </div>
+      <h1>Instant 3D Avatar</h1>
+      <div class="filters">
+        <div class="filter-row">
+          <label>Search</label>
+          <input type="text" id="search" placeholder="e.g. Asian_M_1_Casual">
+        </div>
+        <div class="filter-row">
+          <div class="filter-field">
+            <label>Ethnicity</label>
+            <select id="filter-ethnicity"><option value="">All</option></select>
+          </div>
+          <div class="filter-field">
+            <label>Gender</label>
+            <select id="filter-gender"><option value="">All</option></select>
+          </div>
+          <div class="filter-field">
+            <label>Outfit</label>
+            <select id="filter-outfit"><option value="">All</option></select>
+          </div>
+        </div>
+      </div>
+      <div class="count" id="count-label">Loading catalog&hellip;</div>
+    </div>
+    <div id="list" class="scroll-y">
+      <div class="list-empty" id="listEmpty">Loading the avatar set&hellip;</div>
+    </div>
+    <div id="sidebar-footer">
+      <details class="hint">
+        <summary>How does speaking work here?</summary>
+        <p>Pick or upload audio in the panel on the right, which guesses
+          male/female from the voice's pitch and applies that as the
+          Gender filter above, narrowing this list to matching avatars.
+          Click one here, then press Play in the right panel. Mouth
+          movement is driven live from the audio's volume and frequency
+          content (real viseme blend shapes, animated in your browser) -
+          it approximates speech shapes rather than reading exact
+          phonemes, which is what keeps this instant instead of another
+          AI pipeline to wait on.</p>
+      </details>
+    </div>
+  </div>
+
+  <div id="viewer-pane">
+    <div id="avatar-window">
+      <div id="canvas-container"></div>
+
+      <div id="viewer-hud">
+        <div>
+          <div id="current-name">Pick an avatar from the list</div>
+          <div id="current-tags"></div>
+        </div>
+        <div id="hint">Drag to rotate &middot; Scroll to zoom &middot; Right-drag to pan</div>
+      </div>
+
+      <div id="rotate-controls">
+        <button id="rot-90" type="button">Rotate 90&deg;</button>
+      </div>
+
+      <div id="empty">Select an avatar on the left to preview it here.</div>
+      <div id="loading" hidden>Loading model&hellip;</div>
+      <div id="error-banner" hidden></div>
+    </div>
+  </div>
+
+  <div id="control-sidebar">
+    <div id="control-sidebar-header">
+      <h2>Speak</h2>
+      <p class="control-sidebar-sub">Pick audio here, then click an avatar on the left to say it.</p>
+    </div>
+    <div id="control-panel" class="scroll-y">
+      <div class="audio-tabs">
+        <button type="button" class="audio-tab active" data-tab="upload">Upload a file</button>
+        <button type="button" class="audio-tab" data-tab="sample">Use sample</button>
+      </div>
+
+      <div class="audio-panel" data-panel="upload">
+        <label class="dropzone" id="dropzone" for="audioInput">
+          <input type="file" id="audioInput" accept="audio/*" hidden>
+          <span id="dropzoneText">Drop an audio file here, or click to browse<br><small>wav, mp3, m4a, ogg, webm&hellip;</small></span>
+        </label>
+      </div>
+
+      <div class="audio-panel" data-panel="sample" hidden>
+        <label class="select-label" for="sampleSelect">Sample audio</label>
+        <select id="sampleSelect"></select>
+      </div>
+
+      <div id="audioStatus" class="audio-status"></div>
+
+      <div class="row">
+        <button id="playBtn" disabled>Play</button>
+      </div>
+
+      <audio id="player" crossorigin="anonymous" style="display:none"></audio>
+    </div>
+  </div>
+</div>
+
+<script type="module" src="lipsync.js"></script>
+</body>
+</html>
